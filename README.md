@@ -1,6 +1,6 @@
 # scroll-animation-framework
-This framework combines a set of plugins with a generic logic to have a completly new experience as developer.
-An experience that is such intuitiv for building or setting up CSS- and/or SVG-stroke animations that depends on the scroll position of the browser.
+This framework combines a set of plugins with a generic logic to have a completely new experience as developer.
+An experience that is such intuitive for building or setting up CSS- and/or SVG-stroke animations that depends on the scroll position of the browser.
 
 The **scroll-animation-framework** is the result of an interactive report that was designed & developed by [Ergosign GmbH](http://www.ergosign.de)
 
