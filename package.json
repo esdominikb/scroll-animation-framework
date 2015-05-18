@@ -1,0 +1,26 @@
+{
+  "name": "scroll-animation-framework",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esdominikb/scroll-animation-framework.git"
+  },
+  "author": {
+    "name": "Dominik Buhl",
+    "email": "dominik.buhl@ergosign.de",
+    "url": "http://www.ergosign.de"
+  },
+  "bugs": {
+    "url": "https://github.com/esdominikb/scroll-animation-framework/issues"
+  },
+  "keywords": [
+    "scrolling",
+    "javascript",
+    "animation",
+    "svg",
+    "transform",
+    "framework",
+    "parallax"
+  ],
+  "homepage": "https://github.com/esdominikb/scroll-animation-framework"
+}
