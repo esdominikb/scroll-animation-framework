@@ -1,6 +1,7 @@
 /*
 !/src
+!/raw
 !Gruntfile.js
 !package.json
 !.gitignore
-!readme.md
+!README.md
